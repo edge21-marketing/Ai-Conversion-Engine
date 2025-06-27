@@ -2,4 +2,4 @@ fastapi
 uvicorn
 asyncpg
 python-dotenv
-python-jose
+python-jose[cryptography]
